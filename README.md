@@ -1,2 +1,1 @@
-- Hi, I’m Punvy
-- I’m currently learning.
+* Hi, I’m Punvy
